@@ -96,8 +96,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', True))
-VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', True))
+VERIFY = bool(environ.get('VERIFY', False))
+VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'just2earn.com')
 VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'b6d056c0bbfae325cbc6c55f3a741507bd92bc54')
 # if verify second shortner is True then fill below url and api
