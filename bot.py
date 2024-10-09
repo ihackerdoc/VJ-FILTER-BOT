@@ -19,8 +19,7 @@ logging.basicConfig(
 logging.getLogger("aiohttp").setLevel(logging.ERROR)
 logging.getLogger("aiohttp.web").setLevel(logging.ERROR)
 
-from pyrogram import Client, idle 
-from pyromod import listen
+from pyrogram import Client, idle
 from database.ia_filterdb import Media
 from database.users_chats_db import db
 from info import *
@@ -92,4 +91,3 @@ if __name__ == '__main__':
         loop.run_until_complete(start())
     except KeyboardInterrupt:
         logging.info('Service Stopped Bye 👋')
-
