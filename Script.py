@@ -6,9 +6,9 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʏ 👋🏻 {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-I AM A POWERFULL 💪🏻  AUTOFILTER  BOT 👻 WITH ADVANCED 🚀 FEATURES . ITS EASY TO USE ME.✌🏻
+ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ 💪🏻  ᴀᴜᴛᴏꜰɪʟᴛᴇʀ  ʙᴏᴛ 👻 ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ 🚀 ꜰᴇᴀᴛᴜʀᴇꜱ . ɪᴛꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴍᴇ.✌🏻
 
-ADD ME IN YOUR GROUP OR JOIN MY GROUP , THEN TYPE THE NAME OF THE MOVIE / SERIES OR ANIME YOU WANNA WATCH IN THE GROUP CHAT AND SEE THE MAGIC 🪄</b>"""
+ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴊᴏɪɴ ᴍʏ ɢʀᴏᴜᴘ , ᴛʜᴇɴ ᴛʏᴘᴇ ᴛʜᴇ ɴᴀᴍᴇ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ / ꜱᴇʀɪᴇꜱ ᴏʀ ᴀɴɪᴍᴇ ʏᴏᴜ ᴡᴀɴɴᴀ ᴡᴀᴛᴄʜ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴀɴᴅ ꜱᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ 🪄</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -233,13 +233,13 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b> Size ⚙️: {file_size}
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━━━━━━
 🔍 ɢʀᴏᴜᴘ ➧ <a href=\"https://t.me/MH_Grp\">ᴍᴏᴠɪᴇʜᴜʙ ɢʀᴘ</a> 
 🌀 ᴜᴘᴅᴀᴛᴇꜱ ➧ <a href=\"https://t.me/MovieHubLinkz\">ᴍᴏᴠɪᴇʜᴜʙ</a>
-🍿 ᴄʜᴀɴɴᴇʟ ➧ <a href=\"https://t.me/+GUSYyS3qXuA4MWM1\">ᴍᴏᴠɪᴇꜱᴛᴏʀᴇ</a>
+🍿 ᴄʜᴀɴɴᴇʟ ➧ <a href=\"https://t.me/+GUSYyS3qXuA4MWM1\">ᴍᴏᴠɪᴇ ꜱᴛᴏʀᴇ</a>
 👻 ᴄʜᴀɴɴᴇʟ ➧ <a href=\"https://t.me/+fNPf9aUAH_tjODE1\">ʜᴏʀʀᴏʀ ɴɪɢʜᴛꜱ</a>
-☃️ ᴄʜᴀɴɴᴇʟ ➧ <a href=\"https://t.me/+MoAipC6BsJ5lOWU9\">ᴀɴɪᴍᴇ ᴛɪᴍᴇ</a>
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☃️ ᴄʜᴀɴɴᴇʟ ➧ <a href=\"https://t.me/+MoAipC6BsJ5lOWU9\">ᴀɴɪᴍᴇ ʜᴜʙ</a>
+ ━━━━━━━━━━━━━━━━━━━━━━
 ✨𝗝𝗢𝗜𝗡.𝗦𝗛𝗔𝗥𝗘.𝗦𝗨𝗣𝗣𝗢𝗥𝗧✨</b>""" 
 
     IMDB_TEMPLATE_TXT = """
